@@ -35,7 +35,7 @@
 
 ## 💼 Work
 
-**AI Engineer & Full-Stack Developer @ Ready Group** | 2025 – Present
+**AI Engineer & Full Stack Developer @ Ready Group** | 2025 – Present
 
 - **Campus IL (1.2M+ learners):** built a full-stack LLM-as-a-judge system scoring AI chatbots across 7 metrics (Human-in-the-Loop + 2 RAG pipelines on Amazon Bedrock Knowledge Bases), and the core of a production orchestration layer with intent-based routing across 3 specialized agents and real-time streaming. Mentored 4 team members and authored 20+ technical guides.
 - **AI Adoption Lead:** rolled out Claude Code company-wide, evaluated 4 competing tools, trained 15+ developers, and led sessions of up to 50 participants.
