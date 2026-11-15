@@ -7,29 +7,6 @@
   />
 </a>
 
-<!-- Links -->
-<p align="center">
-  <a href="https://efrat-dev.vercel.app">
-    <img alt="My Portfolio Website" src="https://img.shields.io/static/v1?color=%2310B981&label=Portfolio&message=efrat-dev.vercel.app&style=flat&logo=vercel&logoColor=ffffff&labelColor=334155" />
-  </a>
-  <a href="https://ml-engineering-blog.vercel.app/">
-    <img alt="My Blog" src="https://img.shields.io/static/v1?color=%2310B981&label=Blog&message=250%2B%20posts&style=flat&logo=bookstack&logoColor=ffffff&labelColor=334155" />
-  </a>
-  <a href="https://huggingface.co/efrat-dev">
-    <img alt="My Hugging Face Profile" src="https://img.shields.io/static/v1?color=%2310B981&label=HuggingFace&message=efrat-dev&style=flat&logo=huggingface&logoColor=ffffff&labelColor=334155" />
-  </a>
-  <a href="https://pypi.org/user/efrat-dev/">
-    <img alt="My PyPI Profile" src="https://img.shields.io/static/v1?color=%2310B981&label=PyPI&message=efrat-dev&style=flat&logo=pypi&logoColor=ffffff&labelColor=334155" />
-  </a>
-  <a href="https://leetcode.com/efrat-dev/">
-    <img alt="My LeetCode Profile" src="https://img.shields.io/static/v1?color=%2310B981&label=LeetCode&message=efrat-dev&style=flat&logo=leetcode&logoColor=ffffff&labelColor=334155" />
-  </a>
-  <a href="mailto:efchbd1013@gmail.com">
-    <img alt="Email Me" src="https://img.shields.io/static/v1?color=%2310B981&label=Email&message=efchbd1013@gmail.com&style=flat&logo=gmail&logoColor=ffffff&labelColor=334155" />
-  </a>
-</p>
-<!-- End of Links -->
-
 ---
 
 ## 👩‍💻 About Me
