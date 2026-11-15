@@ -373,7 +373,7 @@
     <!-- Code accent - more professional -->
     <text x="240" y="15" class="slide-in-right delay-3" fill="#4fd1c7" opacity="0.9" 
           style="font-size: 16px; font-weight: 500; font-family: 'Fira Code', 'Consolas', monospace;">
-      { Routing · RAG · Evaluation }
+      { Prompt → Production }
     </text>
 
     <!-- Subtitle with clean underline -->
@@ -387,6 +387,16 @@
     LLM Systems · Agentic AI · Production Chatbots
   </text>
 </g>
+
+  <!-- Proof pills -->
+  <g transform="translate(280, 205)" style="font-family:'Inter','Segoe UI',sans-serif;font-size:12px;font-weight:600">
+    <rect x="0" y="0" width="132" height="22" rx="11" fill="#0f172a" fill-opacity="0.6" stroke="#4fd1c7" stroke-opacity="0.55"/>
+    <text x="66.0" y="15" text-anchor="middle" fill="#cbd5e0">AI Adoption Lead</text>
+    <rect x="142" y="0" width="171" height="22" rx="11" fill="#0f172a" fill-opacity="0.6" stroke="#4fd1c7" stroke-opacity="0.55"/>
+    <text x="227.5" y="15" text-anchor="middle" fill="#cbd5e0">Google Cloud Certified</text>
+    <rect x="323" y="0" width="99" height="22" rx="11" fill="#0f172a" fill-opacity="0.6" stroke="#4fd1c7" stroke-opacity="0.55"/>
+    <text x="372.5" y="15" text-anchor="middle" fill="#cbd5e0">AWS Bedrock</text>
+  </g>
 
   <!-- Premium decorative elements -->
   <g opacity="0.15" class="fade-in delay-8">
