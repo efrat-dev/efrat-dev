@@ -298,11 +298,11 @@
 
     @keyframes ubub { 0%,2%{opacity:0} 4%,100%{opacity:1} }
     @keyframes bbub { 0%,32%{opacity:0} 34%,100%{opacity:1} }
-    @keyframes rvU { 0%,3%{transform:scaleX(0)} 3.01%{transform:scaleX(0);animation-timing-function:steps(23,end)} 28%,100%{transform:scaleX(1)} }
+    @keyframes rvU { 0%,3%{transform:scaleX(0)} 3.01%{transform:scaleX(0);animation-timing-function:steps(26,end)} 28%,100%{transform:scaleX(1)} }
     @keyframes dots { 0%,33%{opacity:0} 34%,45%{opacity:1} 46%,100%{opacity:0} }
     @keyframes dotp { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-3px)} }
-    @keyframes rvB1 { 0%,46%{transform:scaleX(0)} 46.01%{transform:scaleX(0);animation-timing-function:steps(28,end)} 66%,100%{transform:scaleX(1)} }
-    @keyframes rvB2 { 0%,66%{transform:scaleX(0)} 66.01%{transform:scaleX(0);animation-timing-function:steps(10,end)} 76%,100%{transform:scaleX(1)} }
+    @keyframes rvB1 { 0%,46%{transform:scaleX(0)} 46.01%{transform:scaleX(0);animation-timing-function:steps(26,end)} 62%,100%{transform:scaleX(1)} }
+    @keyframes rvB2 { 0%,62%{transform:scaleX(0)} 62.01%{transform:scaleX(0);animation-timing-function:steps(26,end)} 78%,100%{transform:scaleX(1)} }
     .dot { transform-box: fill-box; transform-origin: center; animation: dotp 0.7s ease-in-out infinite; }
   </style>
   <defs>
@@ -316,7 +316,7 @@
     <g class="a" style="animation-name:ubub">
       <rect x="72" y="42" width="190" height="34" rx="12" fill="#0ea5e9"/>
       <path d="M 250 76 L 258 84 L 240 76 Z" fill="#0ea5e9"/>
-      <text class="msg" x="84" y="64" fill="#ffffff" clip-path="url(#clipU)">Where is my certificate?</text>
+      <text class="msg" x="84" y="64" fill="#ffffff" clip-path="url(#clipU)">Need an AI engineer. Fast!</text>
     </g>
 
     <g class="a" style="animation-name:bbub">
@@ -327,8 +327,8 @@
         <circle class="dot" style="animation-delay:.15s" cx="66" cy="116" r="3" fill="#10b981"/>
         <circle class="dot" style="animation-delay:.3s" cx="77" cy="116" r="3" fill="#10b981"/>
       </g>
-      <text class="msg" x="48" y="112" fill="#d1fae5" clip-path="url(#clipB1)">Routing to Certificates agent…</text>
-      <text class="msg" x="48" y="130" fill="#34d399" clip-path="url(#clipB2)">Found it ✓</text>
+      <text class="msg" x="48" y="112" fill="#d1fae5" clip-path="url(#clipB1)">Intent: HIRE → Efrat agent</text>
+      <text class="msg" x="48" y="130" fill="#34d399" clip-path="url(#clipB2)">1 match · 100% ✓ Call her!</text>
     </g>
 
     <rect x="42" y="190" width="206" height="76" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
