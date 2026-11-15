@@ -12,7 +12,7 @@
   <a href="https://efrat-dev.vercel.app">
     <img alt="My Portfolio Website" src="https://img.shields.io/static/v1?color=%2310B981&label=Portfolio&message=efrat-dev.vercel.app&style=flat&logo=vercel&logoColor=ffffff&labelColor=334155" />
   </a>
-  <a href="https://creatingai.onrender.com">
+  <a href="https://ml-engineering-blog.vercel.app/">
     <img alt="My Blog" src="https://img.shields.io/static/v1?color=%2310B981&label=Blog&message=250%2B%20posts&style=flat&logo=bookstack&logoColor=ffffff&labelColor=334155" />
   </a>
   <a href="https://huggingface.co/efrat-dev">
@@ -40,32 +40,32 @@
 - ⚡ **Inference performance:** optimized models of up to **70B parameters** (TRT-LLM, vLLM, Triton)
 - 🧑‍💻 **Agentic engineering:** Claude Code, MCP, custom skills, Spec-Driven Development
 - ☁️ **Google Cloud Certified** Professional Cloud Developer
-- ✍️ **Tech blog with 250+ posts** on LLM optimization and production ML — [read it here](https://creatingai.onrender.com)
+- ✍️ **Tech blog with 250+ posts** on LLM optimization and production ML — [read it here](https://ml-engineering-blog.vercel.app/)
 
 ---
 
-## 💼 What I Do
+## 💼 Work
 
 **AI Engineer & Full-Stack Developer @ Ready Group** | 2025 – Present
 
-- **Campus IL (1.2M+ learners):** built a full-stack LLM-as-a-judge system scoring AI chatbots across 7 metrics (Human-in-the-Loop + 2 RAG pipelines on Amazon Bedrock Knowledge Bases), and the core of a production orchestration layer with intent-based routing across 3 specialized agents and real-time streaming.
-- **AI Adoption Lead:** rolled out Claude Code company-wide, trained 15+ developers, and led sessions of up to 50 participants.
+- **Campus IL (1.2M+ learners):** built a full-stack LLM-as-a-judge system scoring AI chatbots across 7 metrics (Human-in-the-Loop + 2 RAG pipelines on Amazon Bedrock Knowledge Bases), and the core of a production orchestration layer with intent-based routing across 3 specialized agents and real-time streaming. Mentored 4 team members and authored 20+ technical guides.
+- **AI Adoption Lead:** rolled out Claude Code company-wide, evaluated 4 competing tools, trained 15+ developers, and led sessions of up to 50 participants.
 - **Ready Cruit:** full-stack features for an AI recruitment platform (5-service microservices, OpenAI-based resume processing); Claude Code Routines as a CodeRabbit alternative, **cutting code-review costs by 83%**.
 - **NeuReality (ML Performance Engineer):** benchmarked and optimized inference across GPU, x86+AI100 and NR1+AI100; **+30% throughput** from profiling, **+36%** after migrating pipelines to PyTorch.
 
 ---
 
-## 🏆 Featured Project
+## 🧠 Machine Learning
 
 **Insider Threat Detection System** — 🥇 1st place + Judges' Favorite Award (judged by industry experts)
 
 - Ensemble of Isolation Forest, LSTM Autoencoder and XGBoost — **94% F1**
-- Published a synthetic dataset on Kaggle (550+ downloads) and its [generator code](https://github.com/efrat-dev/synthetic-insider-threat-generator)
-- [Detector code](https://github.com/efrat-dev/insider-threat-detector)
+- Published a synthetic [Kaggle dataset](https://www.kaggle.com/datasets/efchbd1013/insider-threat-dataset-for-classified-environments) (550+ downloads) and its [generator code](https://github.com/efrat-dev/synthetic-insider-threat-generator)
+- [Detection code](https://github.com/efrat-dev/insider-threat-detector-pyfiles)
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech
 
 ### 🤖 AI / ML
 ![LLM Orchestration](https://img.shields.io/badge/-LLM_Orchestration-10B981?style=flat)
@@ -95,7 +95,20 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-334155?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-334155?style=flat)
+
+### 🧪 Testing & Methodology
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Spec-Driven Development](https://img.shields.io/badge/-Spec--Driven_Development-334155?style=flat)
+![Agile/Scrum](https://img.shields.io/badge/-Agile%2FScrum-334155?style=flat)
+
+### 🎤 Knowledge Sharing
+![Claude Code Routines](https://img.shields.io/badge/-Claude_Code_Routines-D97757?style=flat&logo=anthropic&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/-NotebookLM-334155?style=flat)
+![Claude Design](https://img.shields.io/badge/-Claude_Design-D97757?style=flat)
+![Zoom](https://img.shields.io/badge/-Zoom-0B5CFF?style=flat&logo=zoom&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -108,9 +121,9 @@
 
 ---
 
-## 🎓 Education & Certification
+## 🎓 Certifications
 
-- ☁️ Professional Cloud Developer — Google Cloud (2026)
+- ☁️ [Professional Cloud Developer — Google Cloud (2026)](https://www.credly.com/badges/64b3f863-2d7c-4e1b-a361-a3353972ca58/public_url)
 - 🧠 Data Science, Machine & Deep Learning — Ready Group & Israel Innovation Authority (570 hours)
 - 💻 Software Engineering Diploma — Mahat Institute
 - 🚀 Ultra Code Excellence Program — KamaTech
