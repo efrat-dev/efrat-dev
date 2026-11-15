@@ -7,6 +7,18 @@
   />
 </a>
 
+<p align="center">
+  <a href="https://efrat-dev.vercel.app">
+    <img alt="Portfolio" src="https://img.shields.io/static/v1?color=%2310B981&label=Portfolio&message=efrat-dev.vercel.app&style=flat&logo=vercel&logoColor=ffffff&labelColor=334155" />
+  </a>
+  <a href="mailto:efratbdil@gmail.com">
+    <img alt="Email Me" src="https://img.shields.io/static/v1?color=%2310B981&label=Email&message=efratbdil@gmail.com&style=flat&logo=gmail&logoColor=ffffff&labelColor=334155" />
+  </a>
+  <a href="https://www.kaggle.com/datasets/efchbd1013/insider-threat-dataset-for-classified-environments">
+    <img alt="Kaggle" src="https://img.shields.io/static/v1?color=%2310B981&label=Kaggle&message=550%2B%20downloads&style=flat&logo=kaggle&logoColor=ffffff&labelColor=334155" />
+  </a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -49,6 +61,9 @@
 ![LLM as a Judge](https://img.shields.io/badge/-LLM_as_a_Judge-10B981?style=flat)
 ![RAG](https://img.shields.io/badge/-RAG-10B981?style=flat)
 ![Agentic AI](https://img.shields.io/badge/-Agentic_AI-10B981?style=flat)
+![Chatbot Development](https://img.shields.io/badge/-Chatbot_Development-10B981?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-10B981?style=flat)
+![Guardrails](https://img.shields.io/badge/-Guardrails-10B981?style=flat)
 ![AWS Bedrock](https://img.shields.io/badge/-AWS_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-334155?style=flat)
