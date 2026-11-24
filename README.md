@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Ready Group" src="./assets/ready.png" height="40" />
+</p>
+
 <a href="https://efrat-dev.vercel.app" target="_blank">
   <img
     alt="Efrat Bdil | AI Engineer"
